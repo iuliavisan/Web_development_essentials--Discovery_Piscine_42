@@ -1,7 +1,7 @@
 $(document).ready(function() {
     console.log("Document ready");
 
-    let $newButton = $("#newButton");
+    let $newButton = $("#New");
     let $ft_list = $("#ft_list");
 
     $newButton.on("click", function() {
